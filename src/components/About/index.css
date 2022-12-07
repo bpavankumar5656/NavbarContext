@@ -1,0 +1,33 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.home-app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.home-bg-dark {
+  background-color: #000000;
+}
+.home-bg-light {
+  background-color: #ffffff;
+}
+.home-text-dark {
+  color: #ffffff;
+}
+.home-text-light {
+  color: #000000;
+}
+
+.img {
+  height: 124px;
+}
+.paragraph {
+  font-family: Roboto;
+  font-weight: bold;
+}
